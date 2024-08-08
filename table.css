@@ -1,0 +1,54 @@
+table {
+    margin: auto;
+    text-align: center;
+    height: 200px;
+    width: 65%;
+    font-size: x-large;
+    border: 2px solid red;
+}
+
+h1 {
+    text-align: center;
+}
+
+.tr1 {
+    color: blue;
+}
+
+.tr2 {
+    color: green;
+}
+
+.tr3 {
+    color: gold;
+}
+
+
+.tr4 {
+    color: lightcoral;
+}
+
+.tr5 {
+    color: deepskyblue;
+}
+
+h2{
+    margin-top: 400px;
+    padding-left: 50px;
+    max-width: 200px;
+    border: 5px solid blue;
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    margin-top: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: x-large;
+    max-width: 800px;
+    border: 2px solid green;
+    margin-left: 50px;
+    overflow: scroll;
+    max-height: 200px;
+}
